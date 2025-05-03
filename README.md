@@ -6,6 +6,10 @@
 
 ---
 
+## 🐍 Python Mastery Project Roadmap
+**Still working on it**: 💪
+---
+
 ## 🚀 Projects
 
 ### ⏱️ [Daily Time Record (DTR) System](https://github.com/smolrome/DailyTimeRecord)
