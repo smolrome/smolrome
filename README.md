@@ -7,7 +7,9 @@
 ---
 
 ## 🐍 Python Mastery Project Roadmap
-**Still working on it**: 💪
+**On my journey to mastering Python**: 💪  
+_Working on various projects to level up my Python skills while diving into cybersecurity._
+
 ---
 
 ## 🚀 Projects
@@ -38,7 +40,7 @@ Desktop application for student interns to log work hours, with database integra
 ## 📫 Let's Connect
 
 - 📧 Email: jeromepedrosa3@gmail.com
-  
+
 ---
 
 _“Code with purpose, design with clarity, and secure everything.”_
