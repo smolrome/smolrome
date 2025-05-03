@@ -8,11 +8,7 @@
 
 ## 🚀 Projects
 
-### 🔒 [Password Manager App](https://github.com/yourusername/password-manager)
-A secure, encrypted password manager with brute-force protection and PIN verification.  
-**Tech:** Python, Tkinter, SQLite/MySQL, Flask (for IP management dashboard)
-
-### ⏱️ [Daily Time Record (DTR) System](https://github.com/yourusername/dtr-system)
+### ⏱️ [Daily Time Record (DTR) System](https://github.com/smolrome/DailyTimeRecord)
 Desktop application for student interns to log work hours, with database integration and late-time rules.  
 **Tech:** Python, Tkinter, SQLite/MySQL, XAMPP
 
