@@ -43,4 +43,4 @@ Desktop application for student interns to log work hours, with database integra
 
 ---
 
-_“Code with purpose, design with clarity, and secure everything.”_
+_“Discipline over motivation. Consistency over intensity.”_
