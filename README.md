@@ -7,7 +7,7 @@
 ---
 
 ## 🐍 Python Mastery Project Roadmap
-**On my journey to mastering Python**: 💪  
+Check out my journey to mastering Python in this [roadmap](python-mastery-roadmap.md).
 _Working on various projects to level up my Python skills while diving into cybersecurity._
 
 ---
