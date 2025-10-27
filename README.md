@@ -39,7 +39,7 @@ Desktop application for student interns to log work hours, with database integra
 
 ## 📫 Let's Connect
 
-- 📧 Email: jeromepedrosa3@gmail.com
+- 📧 Email: pedrosa.jerome4@gmail.com
 
 ---
 
